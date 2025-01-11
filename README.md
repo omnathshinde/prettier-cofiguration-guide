@@ -1,0 +1,1 @@
+# prettier-cofiguration-guide
