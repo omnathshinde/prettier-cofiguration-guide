@@ -24,6 +24,7 @@
 {
   "printWidth": 120,
   "useTabs": true,
+  "singleQuote": false
 }
 ```
 If you provide your custom values for those properties and fall back to the default values for everything else
