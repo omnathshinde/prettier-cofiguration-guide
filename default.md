@@ -18,3 +18,12 @@
   "embeddedLanguageFormatting": "auto"
 }
 ```
+
+## Custom
+```json
+{
+  "printWidth": 120,
+  "useTabs": true,
+}
+```
+If you provide your custom values for those properties and fall back to the default values for everything else
